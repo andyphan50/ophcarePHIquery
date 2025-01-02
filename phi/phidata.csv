@@ -1,0 +1,501 @@
+patient_id,first_name,last_name,address,dob,diagnosis,medication
+1,Leo,Wimes,5564 Hagan Plaza,9/12/1910,"Burn of 3rd deg mu left fingers (nail), inc thumb, sequela",levetiracetam
+2,Lorry,Kauble,21375 Stang Center,10/20/1939,Pneumonia due to other aerobic Gram-negative bacteria,BENZALKONIUM CHLORIDE
+3,Ogdon,Loveday,5 Grim Way,4/7/1973,"Retained (old) foreign body in vitreous body, left eye",ziprasidone hydrochloride
+4,Hartley,Spracklin,98 Scott Way,6/12/1932,"Burn of first degree of nose (septum), initial encounter","Bryonia, Arsenicum Iodatum, Baryta Carbonica, Alumina, Calendula Officinalis, Sulphuricum Acidum, Symphytum Officinale"
+5,Emelita,Boscher,21383 Crest Line Lane,6/1/1906,"Muscle wasting and atrophy, NEC, unsp shoulder",TITANIUM DIOXIDE
+6,Casandra,Devonshire,00886 Grover Pass,3/20/2000,Laceration of unsp blood vessel at wrs/hnd lv of unsp arm,NAPROXEN SODIUM
+7,Marni,Bunkle,03993 Lakewood Terrace,9/23/1910,Person outside hv veh injured in clsn w 2/3-whl mv in traf,Menthol
+8,Andy,Sparshett,08 Toban Alley,6/3/1981,"Poisoning by skeletal muscle relaxants, undetermined, subs",Desmopressin acetate
+9,Aleksandr,Goodship,154 Sage Way,4/27/1932,"Insect bite (nonvenomous) of left front wall of thorax, init",Maximum Strength Medicated Foot Powder
+10,Ira,Wyeld,04228 Schlimgen Road,8/31/1996,Burn of third degree of left elbow,CAFFEINE CITRATE
+11,Barbi,Gerrels,86 Utah Circle,4/15/2008,"Nondisp fx of epiphy (separation) (upper) of unsp femr, 7thC",Oxycodone hydrochloride and Acetaminophen
+12,Caye,Lowton,364 Troy Junction,9/28/1969,"Fetal anemia and thrombocytopenia, second trimester, fetus 4",Acetaminophen
+13,Randee,Owthwaite,3 Warrior Crossing,1/11/1994,"Path fx in oth disease, unsp foot, subs for fx w routn heal",Metoprolol succinate
+14,Kynthia,Esp,1 Amoth Park,12/28/1904,Adhes due to fb acc left in body following infusn/transfusn,Norethindrone and Ethinyl Estradiol
+15,Nero,Mosedall,285 Glacier Hill Circle,2/24/1914,Cerebral infrc due to unsp occls or stenosis of bi ant art,somatropin
+16,Karel,Melbert,8994 Florence Pass,12/24/1942,"Displ transverse fx unsp acetab, subs for fx w delay heal",Chaetomium globosum
+17,Gasper,Thieme,3 Burrows Lane,1/6/1992,"Unsp fx lower end of right femur, init for opn fx type I/2",Mepivacaine Hydrochloride
+18,Cecilio,Blackburn,5974 Saint Paul Place,3/27/1900,"Nondisp unsp fx unsp great toe, subs for fx w nonunion",Polyvinyl Alcohol
+19,Catriona,Steere,49778 Tennessee Junction,12/27/1917,"Laceration of other part of colon, sequela",Aspirin
+20,Adah,Tinkham,90315 Manitowish Parkway,7/30/1974,Legal intervention involving unspecified gas,Ibuprofen
+21,Kamilah,O'Brallaghan,64 Mallory Road,1/18/1938,"Prsn brd/alit hv veh injured in collision w ped/anml, init",Hydroxyzine Pamoate
+22,Onofredo,Bernucci,9000 Esch Center,1/5/1972,"Unsp subluxation of left sternoclavicular joint, init encntr","Citrus limonum, Taraxacum officinale, Uva-ursi, Berberis vulgaris, Capsicum annuum, Galium aparine, Lobelia inflata, Nux vomica, Schisandra, Tylophora, Brain, Cor suis, Glandula suprarenalis suis,"
+23,Jennifer,Gracey,9552 Springs Terrace,6/16/2009,"Inj msl/tnd lng extn muscle of toe at ank/ft level, l foot",SODIUM MONOFLUOROPHOSPHATE
+24,Erna,Dilworth,70 Graceland Park,1/11/1940,Osteonecrosis due to drugs of left carpus,lorazepam
+25,Inglis,Marquess,8184 Holy Cross Drive,5/3/1991,"Corrosion of third degree of right elbow, initial encounter",HYDROCODONE BITARTRATE
+26,Grace,Ponte,0157 Pleasure Street,11/14/1952,"Neoplasm of uncrt behavior of lip, oral cavity and pharynx",INTERLEUKIN-11
+27,Anton,Innman,89 Caliangt Road,10/28/1964,Cyclophoria,Clotrimazole 1.0%
+28,Deny,Sturte,31754 Magdeline Crossing,12/20/1956,"Unsp disp fx of surgical neck of unsp humerus, sequela",Lidocaine Hydrochloride
+29,Caryl,Chillistone,0 Towne Court,8/9/2009,Displacement of cardiac and vascular devices and implants,bupropion
+30,Micky,Storks,5 Eastwood Circle,6/30/1967,"Unspecified subluxation of unspecified toe(s), sequela",Levetiracetam
+31,Faustina,Parris,9 Longview Trail,10/8/1915,"Oth meniscus derang, anterior horn of lat mensc, unsp knee",oxycodone hydrochloride and acetaminophen
+32,Elvira,Corcut,2239 Coleman Place,6/3/1906,Other motor neuron disease,ramipril
+33,Gretel,felip,3716 Pond Road,12/29/1922,Corrosion of 2nd deg mul sites of left wrist and hand,Naproxen sodium
+34,Tessy,Keddy,6 Brentwood Crossing,5/3/1908,"Decreased fetal movements, second trimester, other fetus",Hydrocodone Bitartrate And Acetaminophen
+35,Inger,Wince,1637 Buhler Plaza,12/18/1907,Underdosing of mineralocorticoids and their antagonists,Spasms Weakness
+36,Jorge,Howselee,7 Pankratz Parkway,1/21/1916,"Gestational edema with proteinuria, first trimester",Lamotrigine
+37,Leora,Robertucci,6 Dahle Point,4/19/2002,"War op involving explosion of depth-chg, civilian, sequela",Albuterol Sulfate
+38,Ignazio,Wimbridge,74428 Mariners Cove Lane,12/9/1983,"Displ oblique fx shaft of r femr, 7thF",Ethambutol hydrochloride
+39,Chrotoem,Ormerod,3 Petterle Center,12/20/1998,Acute hepatitis B with delta-agent without hepatic coma,KETOROLAC TROMETHAMINE
+40,Ronnie,Fleckness,351 Heath Way,12/13/1979,"Ghost vessels (corneal), right eye",Ibuprofen
+41,Tiebold,Dwelley,5170 Gina Crossing,5/28/1958,"Laceration w/o foreign body of unsp part of head, sequela",hydrocortisone acetate and pramoxine hydrochloride
+42,Devora,Minette,2 Pleasure Park,5/25/2020,"Disp fx of med condyle of l femr, 7thF","Aluminum hydroxide, Magnesium hydroxide, Simethicone"
+43,Juieta,Yakuntsov,0591 Holy Cross Crossing,9/7/1917,"Unsp fx shaft of r fibula, 7thH",Hydroxychloroquine sulfate
+44,Gustie,Espinel,112 Stone Corner Hill,6/7/2021,Aphasia,Acetaminophen
+45,Elspeth,Kordovani,3168 Farragut Hill,8/10/1982,"Frostbite with tissue necrosis of nose, sequela",Fluoride
+46,Klarika,Albutt,1812 Fallview Hill,12/7/1919,Other fracture of T9-T10 vertebra,Basil
+47,Pearline,Raittie,6418 Melody Court,8/6/1997,"Sltr-haris Type IV physl fx upper end humer, left arm, init",Acarbose
+48,Galina,Chambers,4017 Heffernan Lane,6/17/1985,Intraoperative complications of endocrine system,Triclosan
+49,Frederico,Cudworth,215 Golf View Pass,3/2/1923,"Unsp injury of unsp external jugular vein, init encntr",Cultivated Oat
+50,Lars,Crux,968 Blaine Circle,4/23/1908,Other specified acquired deformities of unspecified limb,Octinoxate
+51,Jarvis,Fewster,25 Hoepker Alley,7/30/2001,Partial traumatic amputation at level betw unsp hip and knee,doxepin hydrochloride
+52,Martelle,Hourihane,900 Dayton Trail,10/8/1995,"Unsp injury of musc/fasc/tend at thigh level, unsp thigh",Fosinopril Sodium and Hydrochlorothiazide
+53,Kakalina,Walentynowicz,2165 Ridgeview Road,6/24/1941,Displacement of indwelling urethral catheter,Mirtazapine
+54,Gail,Hawarden,9071 Monica Junction,9/12/1975,"Legal intervnt w unsp sharp objects, suspect inj, sequela",Ibuprofen
+55,Jilly,Huikerby,61566 Washington Hill,6/16/1993,"Unspecified subluxation of right ulnohumeral joint, sequela",Loperamide Hydrochloride
+56,Rafi,Cawkill,8 Hauk Terrace,7/21/1965,Malignant neoplasm of other and unsp parts of biliary tract,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate"
+57,Marielle,Gever,5 Melrose Hill,5/24/2018,"Deep vascularization of cornea, left eye",PYRITHIONE ZINC
+58,Ketty,Iseton,947 Summit Avenue,12/22/1995,"Other injury of ovary, unspecified, sequela",etonogestrel and ethinyl estradiol
+59,Dominik,Jeandel,76564 Petterle Center,12/5/1948,"Displ bimalleol fx unsp low leg, 7thF",Cypress Arizona
+60,Dinny,Anneslie,43 Roxbury Avenue,10/28/1981,"Lacerat blood vessels at hip and thigh level, right leg",Oxycodone and Acetaminophen
+61,Mathew,Trustrie,157 Elmside Center,8/1/1993,"Prsn brd/alit from bus inj in clsn w rail trn/veh, sequela",Tobramycin and Dexamethasone
+62,Bartlett,Raccio,5266 Barnett Center,3/2/1903,"Nondisp transcondy fx unsp humerus, subs for fx w malunion",Erythromycin
+63,Alex,McMurty,91 Grayhawk Circle,12/2/2011,Athscl nonaut bio bypass of r leg w ulcer oth prt low leg,PRAVASTATIN SODIUM
+64,Case,Crandon,98 Fisk Terrace,11/14/1984,Corrosion of third degree of elbow,Acetaminophen
+65,Christin,Hibling,49 Corscot Way,6/11/1959,"Nondisp comminuted fx shaft of radius, right arm, sequela",propranolol hydrochloride
+66,Claretta,Chatainier,152 Golf Center,3/8/1960,"Partial traumatic transphalangeal amputation of finger, init",Titanium Dioxide
+67,Bendite,Gamett,57573 David Plaza,1/29/1968,Rhinophyma,acetaminophen and codeine phosphate
+68,Patience,Claxton,86511 Butterfield Lane,12/21/1982,"Bent bone of l rad, subs for opn fx type 3A/B/C w routn heal",atenolol
+69,Revkah,Kerswell,30773 Vidon Hill,8/2/1976,"Athscl autol vein bypass of the extrm w gangrene, oth extrm",Chlorhexidine Gluconate
+70,Barry,Leese,05 Linden Parkway,8/4/1968,Struck by skate blades,PROMETHAZINE HYDROCHLORIDE
+71,Tanny,Taffley,29 Waywood Place,8/4/1937,"Nondisp fx of 3rd metatarsal bone, l ft, 7thP","sodium chloride, calcium chloride, potassium chloride,"
+72,Micheline,Trude,62244 Westend Park,11/10/1976,"Legal intervnt w injury by rubr bulet, suspect inj, sequela","Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride"
+73,Tonye,Pairpoint,55 Thackeray Crossing,4/9/1973,"Pathological fracture, left ulna, subs for fx w nonunion",meclizine hydrochloride
+74,Juan,von Nassau,88 Becker Point,7/26/1968,"Unsp fx low end unsp femr, 7thR","Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Dextrose"
+75,Ashley,Gorring,778 Green Ridge Center,7/18/1923,"Inj unsp blood vessel at shldr/up arm, left arm",Rye Grain
+76,Luke,Autin,4 Hoepker Alley,10/21/2022,"Displaced pilon fx right tibia, subs for clos fx w malunion",ALCOHOL
+77,Ogdon,Bumpass,24 Beilfuss Pass,1/11/1938,Alcoholic fatty liver,Metoclopramide hydrochloride
+78,Bobbie,Hallatt,96 Parkside Plaza,8/19/1990,"Bitten by dog, subsequent encounter",Zinc Oxide
+79,Arlie,Potte,588 Meadow Ridge Road,5/5/1916,"Other bursitis of hip, unspecified hip",Miconazole nitrate
+80,Duff,Willeman,239 Doe Crossing Point,2/2/1936,Unsp comp of fb acc left in body fol injection or immuniz,"Antimonium tartaricum, Asterias rubens, Ferrum metallicum, Hepar sulphuris calcareum, Kali bromatum, Natrum muriaticum, Sanguinaria canadensis, Selenium metallicum, Sepia, Silica, Sulphur, Thuja occidentalis"
+81,Kearney,Fulford,536 Cordelia Circle,3/8/1977,"Exposure to bed fire due to unsp burning material, sequela",Lisinopril
+82,Jorry,Djekic,5 Rieder Drive,1/10/1999,"Nondisp fx of nk of 1st MC bone, unsp hand, 7thP",POTASSIUM CHLORIDE
+83,Dollie,Brice,3118 Independence Junction,10/8/2008,"Laceration of vein at forearm level, right arm, init encntr",ethynodiol diacetate and ethinyl estradiol
+84,Geoffry,Alcoran,5718 Elmside Street,10/13/1989,Other nervous system involvement in Chagas' disease,TOPIRAMATE
+85,Alyosha,Fairfoul,07737 Coleman Place,5/9/1995,Benign neoplasm of connective and oth soft tissue of thorax,glimepiride
+86,Ulrika,Gronaver,788 Lindbergh Street,5/25/1991,Rheu lung disease w rheumatoid arthritis of unsp shoulder,TRICLOSAN
+87,Brooks,De Witt,952 Sheridan Street,2/20/2017,Immunization not carried out and underimmunization status,"Alfalfa, Ascorbyl Palmitate, Cysteinum, Hordeum Vulgare, Laminaria Digitata, Manganese Gluconate, methionine, Nasturtium Aquaticum"
+88,Jolene,Fattore,601 Green Hill,2/26/1960,"Poisn by insulin and oral hypoglycemic drugs, undet, subs",sulfacetamide sodium and prednisolone acetate
+89,Davine,Lumby,59030 Morning Terrace,2/9/2021,"Nondisplaced dome fracture of right talus, init for opn fx",oxycodone hydrochloride and acetaminophen
+90,Nanette,Reightley,09 Morning Avenue,9/23/1946,"Contracture, unspecified ankle","octinoxate, oxybenzone, petrolatum"
+91,Arnold,Studdeard,37 Kennedy Road,3/1/1943,"Person outside 3-whl mv inj in clsn w pedl cyc nontraf, init","Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone"
+92,Oriana,Kloisner,315 North Lane,4/5/1905,"Crepitant synovitis (acute) (chronic), left wrist","Chondrus crispus, Glycyrrhiza glabra, Sarsaparilla, Zingiber officinale, Adrenalinum, Allium cepa, Aralia racemosa, Arsenicum album, Calcarea carbonica, Cantharis, Iodium, Natrum carbonicum, Rhus toxi"
+93,Carlina,Cristobal,8291 Hudson Avenue,4/29/1912,"Toxic effect of inorganic substances, self-harm, subs",White Pine
+94,Jolene,Housegoe,66 Northview Plaza,7/8/1902,"Unsp traum displ spondylolysis of fifth cervcal vert, init",meclizine hydrochloride
+95,Jania,Stive,46 Ludington Park,2/12/1930,"Nondisplaced fracture of neck of left talus, sequela",oxycodone hydrochloride
+96,Lindsy,Skaid,5018 Anniversary Parkway,6/3/1994,"Unspecified injury of anterior tibial artery, left leg",TITANIUM DIOXIDE and ZINC OXIDE
+97,Adella,Flannigan,9 Chinook Parkway,7/4/1954,Acute recurrent streptococcal tonsillitis,Beech
+98,Adah,McGonigle,94405 Oneill Road,6/5/1945,"Oclr lac/rupt w prolaps/loss of intraoc tiss, unsp eye, sqla",METHYLPREDNISOLONE SODIUM SUCCINATE
+99,Vicki,Lyddiard,99 Farmco Park,8/1/2010,"Retinal hemorrhage, left eye",metoclopramide hydrochloride
+100,Veda,Brok,50994 Park Meadow Court,7/23/2016,Contusion of right forearm,Goat Epithelium
+101,Broddy,Dobbison,4068 Londonderry Junction,5/25/1992,Pasngr in pk-up/van injured in clsn w statnry object in traf,Bambusa Viscum Stannum
+102,Graig,Pardal,44 Arizona Drive,11/24/1933,"Burn of second degree of neck, subsequent encounter",Canary Grass
+103,Edvard,Kleinstern,9 Rigney Circle,3/11/2007,Exposure to bed fire due to other burning material,ZINC OXIDE
+104,Caren,Hindmoor,69036 Northport Point,4/28/2014,"Oth physeal fracture of upper end of left tibia, init",Fluticasone Propionate
+105,Joyann,Norgan,50960 Muir Street,11/5/1975,"Acute serous otitis media, recurrent, bilateral","Avobenzone, Homosalate, Octinoxate, Octisalate, Oxybenzone"
+106,Enid,Sans,503 International Trail,12/5/1910,"Maternal care for Anti-A sensitization, second tri, unsp","OXYBENZONE, OCTINOXATE, ZINC OXIDE"
+107,Felike,Boor,9817 Farragut Drive,4/16/1986,Toxic effect of soaps,Arnica Nettle Burn and Bite Special Order
+108,Gretta,Simes,55068 Monica Junction,10/13/2017,"Strain of musc/fasc/tend at wrs/hnd lv, left hand, subs",hydroxyzine pamoate
+109,Nefen,Banck,9 Eastlawn Parkway,8/1/1978,Encounter for exam and observation following work accident,Octinoxate and Titanium Dioxide
+110,Dinnie,Gowler,1 8th Circle,9/8/1973,Mechanical entropion of left lower eyelid,Treatment Set TS350906
+111,Lexy,Cowser,1526 Village Green Pass,8/25/1984,"Toxic effect of fiberglass, assault, subsequent encounter",Red Alder
+112,Carlin,Astman,356 Crownhardt Park,1/10/1906,"Laceration of superfic vn at shldr/up arm, unsp arm, sequela",Ropinirole Hydrochloride
+113,Wayland,Challener,462 5th Pass,12/3/1917,Lateral subluxation and dislocation of ulnohumeral joint,Hydrocortisone
+114,Dorey,Pattullo,28279 Loftsgordon Park,3/29/1900,Anemia in other chronic diseases classified elsewhere,Oxazepam
+115,Leeann,Twelvetrees,1 Eggendart Park,9/14/1956,"Oth fracture of unsp patella, subs for clos fx w routn heal","Hydrastis Canadensis, Taraxacum Officinale, Acetylcholine Chloride, Adrenalinum, Gaba, Histaminum Hydrochloricum"
+116,Sophie,Cobbledick,3570 Thackeray Avenue,3/26/1930,"Burn of second degree of left thigh, initial encounter",RISPERIDONE
+117,Prentiss,Kingshott,3070 Carpenter Center,1/13/1999,Imperforate hymen,propafenone hydrochloride
+118,Carlee,Disbrey,98 Debs Street,8/11/1958,"Unsp fx shaft of left tibia, subs for clos fx w nonunion",Indomethacin
+119,Luke,Alleway,596 Jana Park,5/11/1929,Primary occlusal trauma,Nitrous Oxide
+120,Franny,Callum,4476 Troy Road,5/29/1987,"Nondisp fx of anterior wall of right acetabulum, init",ropivacaine hydrochloride
+121,Yorgo,Muirhead,36383 Thackeray Pass,4/16/1906,"Spacecraft crash injuring occupant, initial encounter",Cysteamine Bitartrate
+122,Sheela,Aronin,71 Rigney Way,7/30/2017,"Inj extn/abdr musc/fasc/tend of r thm at forarm lv, init","SODIUM CHLORIDE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE"
+123,Hamnet,Gipps,764 Welch Center,4/24/1923,"Oth injury of right pulmonary blood vessels, sequela",Dexamethasone
+124,Gus,Scurry,2 Steensland Court,6/14/1926,Secondary spontaneous pneumothorax,salicylic acid
+125,Domingo,Sherman,09254 Iowa Crossing,3/4/1956,"Disp fx of neck of left rad, subs for clos fx w routn heal","OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE"
+126,Gianna,Gasson,61456 Badeau Street,11/14/2018,"Other rupture of muscle (nontraumatic), other site",Chlorhexidine Gluconate
+127,Levy,Lofthouse,5 Spenser Crossing,10/26/1957,"Oth injury due to oth accident to canoe or kayak, init",Dandelion
+128,Dorri,Garment,0 Washington Hill,9/4/2008,"Regular astigmatism, bilateral",Sodium Polystyrene Sulfonate
+129,Sioux,Bartosik,052 Hoffman Terrace,1/18/1995,"Cholecystitis, unspecified",Meclizine Hydrochloride
+130,Koral,Dallimare,9164 Artisan Terrace,8/4/1918,"Disp fx of shaft of 1st MC bone, l hand, 7thD",Potassium Chloride
+131,Caron,Tuplin,13 Thackeray Terrace,3/4/1916,Plateau iris syndrome (post-iridectomy) (postprocedural),Aspirin
+132,Jemie,Gatward,011 Donald Hill,6/22/1900,Obs & eval of NB for oth suspected condition ruled out,Wormwook
+133,Margarete,Hamil,012 Lakewood Junction,1/24/1978,"Sltr-haris Type I physl fx upr end humer, unsp arm, 7thD",Benzalkonium Chloride
+134,Ardyth,Jezzard,688 Loftsgordon Place,6/14/1985,Pneumonia due to staphylococcus aureus,ISOPROTERENOL HYDROCHLORIDE
+135,Yul,Orcott,63 Autumn Leaf Alley,11/10/1917,"Drvr of 3-whl mv inj in clsn w statnry object in traf, subs",Doxazosin
+136,Stephi,Seabrocke,011 Ridgeway Way,11/15/1999,"Leakage of balloon (counterpulsation) device, sequela",Benzalkonium Chloride
+137,Glennie,Dumbreck,3 Walton Junction,2/11/1961,Contusion of ring finger without damage to nail,"APIS MELLIFERA, ARNICA MONTANA, ATROPA BELLADONNA, TRIBASIC CALCIUM PHOSPHATE, ECHINACEA, UNSPECIFIED, CALCIUM SULFIDE, MERCURIUS SOLUBILIS"
+138,Charmane,Kordovani,4321 Carey Terrace,9/17/1982,"Fused fingers, unspecified hand",Ethyl Alcohol
+139,Morley,Dunsford,029 Lakewood Parkway,5/9/1909,Congenital absence of foot and toe(s),Metoprolol Tartrate
+140,Pennie,Allsep,026 American Alley,1/10/1991,Underdosing of agents primarily affecting GI sys,carvedilol phosphate
+141,Ernestine,Mitroshinov,788 Logan Trail,2/6/1928,"Other specified joint disorders, right wrist",Tolnaftate
+142,Town,Trimming,365 Mosinee Alley,3/16/1989,"Toxic effect of organic solvents, accidental, sequela",ethyl alcohol
+143,Tally,Rampley,40241 Morningstar Lane,7/8/1925,"Displ spiral fx shaft of r tibia, 7thE","Avobenzone, Octisalate and Octocrylene"
+144,Denise,Rissom,7118 Harbort Trail,5/10/1959,Encounter for initial prescription of injectable contracep,ATORVASTATIN CALCIUM
+145,Ashlie,Ollington,6 Holy Cross Plaza,5/20/2013,"Posterior dislocation of left acromioclavicular joint, init","Octinoxate, TITANIUM DIOXIDE, and ZINC OXIDE"
+146,Keenan,Lempke,78 American Circle,1/24/1943,"Sprain of interphalangeal joint of left great toe, sequela",One Seed Juniper
+147,Harry,Hollyman,727 Memorial Hill,2/7/1904,"Puncture wound w/o foreign body, right lower leg, sequela",Guaifenesin
+148,Reidar,Avrahm,770 Service Drive,8/23/1991,"Minor laceration of unsp innominate or subclav art, sequela",Triamcinolone Acetonide
+149,Huberto,Popeley,8 Brentwood Pass,8/12/1982,"Underdosing of macrolides, initial encounter",Homeopathic Gel
+150,Constancia,Flockhart,64377 Banding Way,7/2/2009,"Poisoning by antithrombotic drugs, accidental",Labetalol Hydrochloride
+151,Zaccaria,Kausche,49222 Mifflin Hill,3/4/2007,"Injury of oculomotor nerve, left side, initial encounter",Alprazolam
+152,Cecelia,De Paoli,6 Oak Valley Lane,10/14/1986,Atrophy of right orbit,Husky 514
+153,Sallee,Leaves,04 Elgar Terrace,2/29/1904,"Nondisp fx of dist phalanx of l less toe(s), init for opn fx",CALENDULA OFFICINALIS FLOWERING TOP
+154,Trenton,Doy,93281 Burning Wood Park,6/15/1962,"Burn 2nd deg mul sites of shldr/up lmb, except wrs/hnd, sqla",Earwax Removal Kit
+155,Cyndi,Jakubowicz,96412 Ilene Junction,2/15/1943,Histiocytic sarcoma,Magnesium Sulfate
+156,Marius,Swindall,443 Hauk Plaza,6/30/1960,"Unsp intracap fx left femur, init for opn fx type I/2",Carisoprodol
+157,Isaiah,Gelletly,9689 Parkside Parkway,6/21/1996,"Traum hemor r cereb w LOC >24 hr w ret consc lev, subs",Greasewood
+158,Ferdinanda,Wedmore.,595 Ruskin Road,10/15/1905,"Disp fx of medial condyle of unsp humerus, init for clos fx",INDOMETHACIN
+159,Whittaker,Maevela,5 Moulton Trail,8/9/1951,"Displ suprcndl fx w/o intrcndl extn low end unsp femr, 7thE","Ensulizole, Octinoxate, Octocreylene, Oxybensone, Titanium Dioxide"
+160,Magda,Ibbitt,21716 Jenifer Drive,8/22/2005,Cereb infrc due to unsp occls or stenos of unsp cereblr art,Octinoxate and Titanium Dioxide
+161,Alberto,Gravells,4776 Basil Plaza,4/25/1912,"Open angle with borderline findings, low risk, left eye",sitagliptin
+162,Jarad,Gert,09454 Luster Park,10/14/1962,Encntr for medical obs for susp diseases and cond ruled out,Chlorpromazine hydrochloride
+163,Kaye,Linzey,476 Farmco Park,10/26/1907,Acquired partial absence of pancreas,"Acetaminophen, Diphenhydramine HCl"
+164,Romain,MacDunlevy,2672 Schmedeman Lane,10/10/2001,"Oth types of follicular lymphoma, lymph nodes mult site",SULFUR
+165,Jada,Grishkov,7 Lotheville Pass,5/9/1982,"Serous detachment of retinal pigment epithelium, right eye",cyclobenzaprine hydrochloride
+166,Rosie,Lawrence,14 Aberg Pass,5/19/1950,"Unsp fracture of left calcaneus, subs for fx w nonunion",TOPIRAMATE
+167,Peria,Beckingham,414 Sherman Lane,3/10/1929,"Other superficial bite of left wrist, sequela",amlodipine besylate
+168,Andros,Igglesden,8 Center Parkway,10/20/1988,"Posterior subluxation of unsp ulnohumeral joint, init encntr",Flomax
+169,Norina,O'Heaney,13 Fremont Pass,6/28/1992,Corros 60-69% of body surface w 60-69% third degree corros,Lamotrigine
+170,Rob,Stratton,743 Portage Alley,10/15/1994,"Corneal disorder due to contact lens, left eye",warfarin sodium
+171,Margret,MacNeice,51704 Bluejay Road,10/27/1983,"Unspecified injury of right forearm, subsequent encounter",Citalopram Hydrobromide
+172,Jacki,Quant,50934 Becker Park,11/28/1997,"Stiffness of left wrist, not elsewhere classified",Mirtazapine
+173,Corabella,Nelm,2 Delaware Hill,8/3/1932,"Other hypertrophic osteoarthropathy, right ankle and foot",Lisinopril
+174,Nathalie,Rylstone,90351 Northview Lane,3/24/1978,"Blister (nonthermal) of unsp part of neck, subs encntr",Buprenorphine and Naloxone
+175,Prudy,Lockery,9 Thierer Parkway,11/13/1918,"Other streptococcal arthritis, shoulder",methimazole
+176,Jillana,Shields,8 Chinook Center,5/27/1954,Toxic effect of ethanol,Antacid Tablets
+177,Tynan,Fellini,84876 Lerdahl Road,6/10/1956,"Other specified rheumatoid arthritis, wrist",Amlodipine Besylate and Benazepril Hydrochloride
+178,Jethro,Luckham,57019 Vernon Hill,8/21/2019,"Poisoning by vitamins, undetermined, subsequent encounter",Mulberry Mix
+179,Ciel,Dodwell,18778 Delladonna Trail,10/11/1924,"War op involving fragments from weapons, civilian, sequela",Cyclobenzaprine Hydrochloride
+180,Torrie,Edington,58497 Blaine Pass,9/2/2011,"Subluxation of radiocarpal joint of unsp wrist, subs encntr",Hydrochlorothiazide
+181,Glenine,Tothacot,5012 Nancy Plaza,6/26/1978,Contusion of right knee,COLESTIPOL HYDROCHLORIDE
+182,Cleve,Blain,808 Monterey Street,4/29/1929,"Displaced segmental fracture of shaft of unsp tibia, sequela","Calc Sulph 30c, Dulcamara 30c, Euphrasia 30c, Gelsemium 30c, Graphites 30c, Hepar Sulph 30c, Hydrastis 30c, Kali Bich 30c, Kali Iodatum 30c, Lycopodium 30c, Medorrhinum 30c, Mercurius Sol 30c, Nux Vomica 30c, Pulsatilla 30c, Silicea 30c, Thuja 30c"
+183,Austin,Nield,13607 Dawn Street,3/25/1989,"Oth fx head/neck of unsp femr, 7thH",Titanium Dioxide
+184,Kissee,Amthor,8950 Mayer Way,8/24/1963,"Vitreous degeneration, right eye",Fluoxetine Hydrochloride
+185,Kristofer,Cooch,646 Magdeline Parkway,12/10/1979,"Laceration of ulnar artery at forearm level, right arm",Sulfamethoxazole and Trimethoprim
+186,Faulkner,Fillan,3534 Buhler Hill,2/22/1910,Burn of unspecified degree of unspecified wrist,"OCTINOXATE, OCTISALATE, OXYBENZONE, TITANIUM DIOXIDE"
+187,Wernher,Gooden,87440 Shasta Court,3/24/1977,Alcohol depend w alcoh-induce psychotic disorder w hallucin,Magnesium hydroxide
+188,Dodie,Shales,670 Donald Alley,8/1/1900,Fracture of lower end of femur,CALCIUM GLUCONATE
+189,Rozele,Crowley,62195 Dryden Place,11/1/1927,"Osteolysis, right hand","OCTINOXATE, TITANIUM DIOXIDE"
+190,Sella,Geke,74592 Fulton Point,1/23/1953,"Disp fx of epiphy (separation) (upper) of r femur, sequela","BUPROPION HYDROCHLORIDE, TYROSINE"
+191,Padriac,Machan,7 Weeping Birch Plaza,11/17/2005,"Malig neoplm of conn and soft tissue of lower limb, inc hip","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+192,Perl,Drinnan,0 Dahle Way,3/10/1928,"Sprain of metacarpophalangeal joint of unsp thumb, init",rOPINIRole
+193,Durward,Gillooly,6 Gateway Parkway,8/12/1988,"Nondisp spiral fx shaft of l fibula, 7thQ",ropinirole hydrochloride
+194,Andee,McDonald,1727 Caliangt Road,12/23/2000,"Disp fx of dist pole of navic bone of r wrs, 7thD","DL-Camphor, L-Menthol, Methyl Salicylate patch"
+195,Lynnette,Vedishchev,371 Anzinger Court,12/13/1945,"Ped on sktbrd injured in clsn w 2/3-whl mv in traf, init",Verapamil Hydrochloride
+196,Bobbe,Kerner,01204 Lukken Hill,5/10/1986,"Injury of unsp nerve at wrs/hnd lv of right arm, subs",Epicoccum nigrum
+197,Fawnia,Stern,0 Corscot Parkway,5/3/1998,"Burn of third degree of left shoulder, sequela",Citalopram Hydrobromide
+198,Xylina,Vasilchikov,83498 Doe Crossing Trail,3/27/1905,"Unsp nondisp fx of 7th cervcal vert, 7thD",SALICYLIC ACID
+199,Tim,Towhey,372 Logan Drive,9/1/1988,"Lead-induced gout, left elbow",GRANULOCYTE COLONY STIMULATING FACTOR
+200,Nikki,Iddins,68255 Vermont Circle,9/8/1956,"Nondisp spiral fx shaft of unsp fibula, 7thE",Hydrocodone Bitartrate and Ibuprofen
+201,Thalia,Baudinet,8 Eagle Crest Crossing,10/22/1956,"Disp fx of unsp ulna styloid pro, 7thK",omeprazole
+202,Erin,Delamaine,04297 Troy Crossing,10/22/1912,"Displ seg fx shaft of rad, unsp arm, 7thJ",Acetaminophen
+203,Jens,Pasby,2 Twin Pines Way,12/19/1997,"Burn of second degree of unspecified ankle, sequela",alternaria alternata
+204,Annissa,Townson,473 Dovetail Pass,2/13/2007,"Corrosion of first degree of right axilla, sequela",FAMCICLOVIR
+205,Karlie,Thormann,4 Marcy Way,3/29/2019,"Oth injury of unspecified carotid artery, init encntr",Simvastatin
+206,Gordon,Covill,32324 Nelson Pass,9/12/1957,Malignant neoplasm of ovrlp sites of unsp parts of mouth,Ibuprofen
+207,Guido,Shewring,67985 Golf Course Circle,10/26/1998,"Burn 2nd deg mul sites of left lower limb, ex ank/ft, subs",valacyclovir hydrochloride
+208,Robinette,Kaplan,234 Katie Place,6/26/1930,"Nondisp fx of unsp radial styloid pro, 7thQ",Ranitidine
+209,Avis,Streeten,930 Ridgeview Junction,3/31/1962,"Oth comp due to other GU prosthetic materials, sequela",Carbon Dioxide
+210,Hank,Bilovus,09635 Quincy Drive,11/21/1929,"Labor and delivery complicated by oth cord comp, fetus 5",Prochlorperazine Maleate
+211,Alanson,Lilliman,4175 Ronald Regan Hill,3/8/1950,Contus/lac right cerebrum w LOC of unsp duration,"Echinacea (Angustifolia), Hydrastis canadensis, Phytolacca decandra, Alternaria tenuis, Aspergillus niger, Geotrichum candidum, Mucor racemosus, Pullularia pullulans, Rhizopus nigricans,"
+212,Dede,Seefus,2600 Vidon Center,2/5/1937,"Other synovitis and tenosynovitis, thigh",Hydromorphone Hydrochloride
+213,Ewart,Theobold,30897 Sloan Trail,3/21/1988,"Displ seg fx shaft of ulna, l arm, 7thQ","Homosalate, Octinoxate, Avobenzone and Octocrylene"
+214,Trixy,Shyram,93 Erie Place,9/9/1996,"Ped on foot injured in clsn w rail trn/veh in traf, sequela",dexamethasone
+215,Sydney,Sebrens,6976 Sullivan Street,8/13/1921,Burn of third degree of lip(s),Chlordiazepoxide Hydrochloride
+216,Alfredo,O'Fogarty,8 Nova Pass,4/21/1900,"Other fracture of left ilium, sequela",doxepin hydrochloride
+217,Willyt,McQuilkin,92296 Katie Parkway,9/19/1951,"Stable burst fx T9-T10 vertebra, subs for fx w delay heal",Sodium Fluoride
+218,Karel,Donaldson,275 Spohn Drive,5/19/2004,"Nondisp fx of base of neck of left femur, init for clos fx",Oxygen
+219,Stavro,Largent,5160 Superior Drive,4/14/1906,Unspecified injury of rectum,Meloxicam
+220,Mirelle,Kofax,7 Forster Terrace,7/21/2022,"Strain of unsp msl/tnd at ank/ft level, left foot, init",Nabumentone
+221,Beverlee,Cambling,87 Columbus Junction,7/28/1962,"Infection following immunization, initial encounter",tetraferric tricitrate decahydrate
+222,Susanetta,Wims,8 Swallow Parkway,3/7/1929,"Person injured in clsn betw rail trn/veh and car, nontraf",Salicylic Acid
+223,Elie,Govan,1 Shelley Park,11/30/1970,Varicose veins of unsp lower extremity with inflammation,glipizide
+224,Cherida,Heath,2 Jenifer Avenue,4/23/1934,Flat anterior chamber hypotony of left eye,DIPYRIDAMOLE
+225,Eula,Hubatsch,4121 Sauthoff Avenue,7/31/1955,"Disorder of amnio fluid and membrns, unsp, second tri, oth",Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution
+226,Ruprecht,Beddows,6105 Fordem Park,6/22/1909,Postradiation scoliosis,Imiquimod
+227,Meta,Benyan,3033 Valley Edge Place,3/13/1971,"Subluxation of tarsometatarsal joint of right foot, init",Aluminum Zirconium Tetrachlorohydrex Gly
+228,Jessi,Bannester,7169 Beilfuss Court,9/29/1964,"Unsp dislocation of unspecified radial head, subs encntr",Cystoforce
+229,Gael,Urien,749 Norway Maple Parkway,6/8/1955,"Torus fx lower end of l humerus, subs for fx w delay heal",CEFEPIME HYDROCHLORIDE
+230,Cristionna,Andersch,7207 Cascade Park,11/4/1923,"Contusion of liver, initial encounter",Haloperidol
+231,Idaline,Iacofo,4377 Lyons Way,12/23/1907,"Displ commnt fx shaft of l tibia, 7thE",famotidine
+232,Lawton,Fawlo,19392 4th Park,5/7/1990,Sltr-haris Type I physeal fracture of unspecified metatarsal,leuprolide acetate
+233,Rivi,Sphinxe,87045 Brown Terrace,10/11/1922,Oth benign neoplasm of skin of other and unsp parts of face,BAMBUSA AESCULUS
+234,Ciro,Reburn,8 Fairfield Street,8/27/1985,"Chronic serous otitis media, left ear","ANAMIRTA COCCULUS SEED, CONIUM MACULATUM FLOWERING TOP, and TOBACCO LEAF"
+235,Mycah,Snoden,9990 Lakeland Place,8/18/1975,"Open angle with borderline findings, high risk, bilateral",Lovastatin
+236,Hildagard,Diem,2 Longview Circle,11/29/1945,Unspecified superficial injury of unspecified upper arm,Alprazolam
+237,Kath,Crohan,9066 Dwight Point,2/6/1942,"Poisoning by other opioids, assault, initial encounter",Cattle Epithelium
+238,Neddie,Gobert,8 Debs Plaza,10/8/1934,Other nonrheumatic tricuspid valve disorders,Zoledronic Acid
+239,Chaddy,Yare,3 Pond Plaza,3/8/1951,"Milt op involving oth explosions and fragments, civilian",AESCULUS GLABRA
+240,Gardner,Haestier,53 Almo Park,10/31/1993,Unsp opn wnd r bk wl of thorax w/o penet thoracic cavity,Benzethonium Chloride
+241,Birk,Hawkshaw,9775 Golf View Plaza,7/10/1933,"Nondisp fx of base of nk of r femr, 7thR","Carboxymethylcellulose Sodium, Glycerin"
+242,Teodorico,Ortner,868 Kedzie Trail,2/3/1916,"Car occupant (driver) injured in unsp nontraf, subs","sulfur,salicylic acid"
+243,Betteanne,Playden,599 Rigney Crossing,8/20/1989,"Poisoning by antifungal antibiot, sys used, self-harm, subs",Ibuprofen
+244,Lena,Duignan,496 Mcbride Parkway,5/22/1924,Nondisplaced longitudinal fracture of right patella,Titanium Dioxide
+245,Adham,Ellison,8810 Spenser Court,1/13/2017,"Corrosion of third degree of unsp toe(s) (nail), init encntr","OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE"
+246,Klarika,Lambirth,98879 Ruskin Circle,9/27/1921,"Inj extensor musc/fasc/tend unsp finger at wrs/hnd lv, init",triclosan
+247,Niccolo,Self,630 Stang Hill,10/4/2004,"Nondisp fx of cuboid bone of unsp ft, 7thG","MENTHOL, CALAMINE, ZINC OXIDE"
+248,Devin,Dacres,645 Melvin Parkway,8/3/1945,Assault by knife,"benzethonium chloride, benzocaine, and menthol"
+249,Wildon,Blount,03247 Brentwood Street,6/7/2016,"Poisoning by unsp systemic antibiotic, self-harm, init",Miconazole nitrate
+250,Early,Mereweather,559 Monument Parkway,9/9/1999,"Nondisp fx of dist phalanx of l great toe, 7thK",Risperidone
+251,Hattie,Duffus,759 John Wall Place,6/17/1903,"Kaschin-Beck disease, left hand",doxycycline
+252,Theo,Hadley,8707 Esch Trail,7/6/2017,"Traum subrac hem w LOC of 30 minutes or less, sequela",Clonazepam
+253,Laurena,Marushak,96105 West Way,6/10/1922,Congen absence of right thigh and lower leg w foot present,"AVOBENZONE, OCTINOXATE, OCTOCRYLENE"
+254,Tarrance,Jardein,0 Toban Hill,1/11/1993,"Traum hemor r cereb w LOC of 30 minutes or less, sequela",Hydromorphone Hydrochloride
+255,Wren,Vasyushkhin,12 Heffernan Crossing,3/20/1910,"Strain of muscle, fascia and tendon of unsp hip, sequela",Levonorgestrel and Ethinyl Estradiol
+256,Marlie,Happel,489 Rutledge Place,4/19/1917,Secondary malignant neoplasm of unspecified digestive organ,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+257,Joshuah,Druett,070 Veith Terrace,11/4/1998,"Passenger in hv veh injured in clsn w unsp mv nontraf, init","ALUMINUM HYDROXIDE, MAGNESIUM HYDROXIDE, DIMETHICONE"
+258,Berthe,Roggeman,5 Stephen Crossing,3/30/1947,"Underdosing of antacids and anti-gstrc-sec drugs, subs",Methylphenidate hydrochloride
+259,Jarrod,Beeho,7 Morrow Parkway,6/17/1943,Carcinoma in situ of rectosigmoid junction,Lisinopril
+260,Bastien,Gell,6524 Lyons Alley,6/19/1997,"Nondisp oblique fx shaft of r rad, 7thN",benztropine mesylate
+261,Patsy,McMains,898 Corscot Avenue,10/27/1986,Other superficial bite of right thigh,Salicylic Acid
+262,Cori,Fearnley,871 Fulton Terrace,3/12/1921,"Maternal care for compound presentation, fetus 4",Aspirin
+263,Neall,Houlworth,8 Hovde Place,8/6/2018,"Pathological dislocation of left ankle, NEC",Doxycycline hyclate
+264,Yvor,Kerridge,807 Springview Pass,1/28/1905,"Other secondary chronic gout, unspecified elbow, with tophus",ISOPROTERENOL HYDROCHLORIDE
+265,Netta,Wesson,185 Norway Maple Center,12/21/2003,"Nondisp fx of olecran pro w intartic extn unsp ulna, 7thR",Sodium Fluoride
+266,Garrek,Seys,31664 Bashford Street,11/5/1989,"Burn unsp deg mult right fingers (nail), not inc thumb, init",Ragweed Short
+267,Nigel,Massot,8 Eagle Crest Parkway,11/10/1948,"Stress fracture, right shoulder, subs for fx w nonunion",Lamotrigine
+268,Anna-diana,Goodie,3108 Pankratz Pass,1/29/2019,"Laceration of unsp blood vessel at shldr/up arm, unsp arm",Ibuprofen
+269,Dinnie,Fry,97338 Prairie Rose Parkway,2/26/2012,"Ped on gliding-type ped convey colliding w statnry obj, init",Triazolam
+270,Drake,Guilloud,2723 Havey Place,8/13/1940,"Typhoid fever, unspecified",Tizanidine
+271,Brigitta,Baudoux,866 2nd Avenue,1/31/2003,"Perf due to fb acc left in body fol surgical operation, subs",Ciclopirox
+272,Idalina,Jurkowski,38 Lyons Point,5/1/2017,"Unsp fx shaft of r fibula, subs for clos fx w delay heal",pear
+273,Shell,Albrecht,474 Mallory Road,4/15/1933,"Oth osteopor w current path fracture, l low leg, sequela",Diphenhydramine HCl
+274,Veradis,Dunklee,8281 Petterle Plaza,7/5/2001,"Chondromalacia, joints of unspecified hand",black walnut
+275,Norrie,Allery,998 Sachtjen Hill,6/12/1908,"Unsp mtrcy rider inj pick-up truck, pk-up/van in traf, subs",Diazepam
+276,Aeriela,Barney,4683 Trailsway Trail,3/7/2018,"Glider (nonpowered) collision injuring occupant, sequela",Cyclobenzaprine Hydrochloride
+277,Billie,Taylorson,3 Washington Drive,4/2/1944,"Sprain of unsp parts of unsp shoulder girdle, init encntr",Acetaminophen
+278,Trent,Linggood,52386 Dunning Avenue,11/21/1949,"Acquired clawhand, left hand",vardenafil hydrochloride
+279,Valentina,McGaffey,370 Sutteridge Lane,5/18/1952,Other and unspecified ovarian cysts,Octinoxate and Oxybenzone
+280,Davida,Dewey,07670 Debra Street,9/5/1932,"Pressure ulcer of unspecified buttock, stage 4",Acyclovir Sodium
+281,Slade,Scarisbrick,4245 Susan Park,2/22/1908,"Smith's fx l rad, subs for opn fx type 3A/B/C w routn heal",Fluoxetine
+282,Pat,Christene,01 Morning Alley,10/28/2014,Malignant neoplasm of other and unspecified parts of mouth,Ciprofloxacin Hydrochloride
+283,Sibley,Mackrell,18963 Grayhawk Hill,8/8/1967,"Monosomies and deletions from the autosomes, NEC","Oyster Shell Calcium Carbonate Crude, Chenopodium Ambrosioides, Anamirta Cocculus Seed, Conium Maculatum Flowering Top, Strychnos Nux-Vomica Seed, Phosphorus, Pulsatilla Vulgaris, Silicon Dioxide"
+284,Linet,Gartsyde,4 Rockefeller Trail,6/16/2014,"Diffuse otitis externa, right ear",HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+285,Halimeda,Bashford,8 Lake View Way,12/31/1934,"Adhes due to fb acc left in body fol kidney dialysis, init",Azithromycin
+286,Rosita,Seamans,54 Westerfield Trail,4/6/1980,"Fracture of unspecified metatarsal bone(s), right foot",Pancrelipase
+287,Malvin,Nossent,03 Anniversary Road,2/12/1941,"Unsp fb in resp tract, part unsp causing oth injury, init",Quinidine Sulfate
+288,Adriena,Bick,52617 Ruskin Road,2/29/1916,"Subluxation of L1/L2 lumbar vertebra, sequela",Cefadroxil
+289,Sergei,Troak,1680 Forster Park,11/12/1954,Pediculosis and phthiriasis,Adenosine
+290,Briny,Skerm,4 Rockefeller Point,12/12/2012,"Protozoal diseases complicating pregnancy, unsp trimester",CAPSICUM ANNUUM
+291,Tait,Iacovolo,1 Elka Pass,7/6/1929,Open bite of unsp front wall of thorax w/o penet thor cavity,Oxymorphone Hydrochloride
+292,Gusty,Berks,456 Hansons Road,3/28/1952,Chronic nephritic syndrome with minor glomerular abnormality,"Apis Mellifica, Arsenicum Album, Belladonna, Chamomilla, Echinacea, Lachesis Mutus, Mercurius Solubilis, Pulsatilla, Pyrogenium"
+293,Brnaba,Arnaudi,87687 Jenna Hill,4/20/1985,"Burn of unspecified degree of neck, initial encounter",Allantoin
+294,Geneva,Milch,4558 Melrose Pass,11/23/1943,Parachutist entangled in object,"Eucalyptol, Menthol, Methyl Salicylate, Thymol"
+295,Shannan,Pinor,2935 Rowland Terrace,8/16/1930,"Toxic effect of thallium, assault, initial encounter",Ceftriaxone
+296,Dewain,Coltart,5232 Tennyson Pass,3/21/1964,"Juvenile osteochondrosis of spine, cervical region",Benzalkonium chloride
+297,Garrot,Harteley,0480 Jenifer Trail,8/20/2011,"Major lacerat femoral vein at hip and thigh level, left leg","methyl salicylate, menthol, capsaicin"
+298,Masha,Ramalhete,157 Glacier Hill Point,1/17/1930,"Mech loosening of internal left hip prosthetic joint, subs",ropinirole
+299,Yoshiko,Beentjes,3398 Karstens Pass,3/9/1995,"Bennett's fracture, left hand, subs for fx w delay heal",Benzocaine and Resorcinol
+300,Gabbey,Simpkiss,54 Grover Alley,3/19/1929,"Displ oblique fx shaft of r fibula, 7thK","Dopamine,"
+301,Philomena,Sillwood,50579 Dixon Parkway,2/20/2005,"Toxic effect of mercury and its compounds, undet, subs",Finasteride
+302,Cullen,Padginton,08982 Donald Trail,7/31/1939,"Unsp fx upper end of left tibia, init for opn fx type 3A/B/C",Sertraline Hydrochloride
+303,Eliot,Vreede,00557 Wayridge Park,1/21/1969,Fall in (into) filled bathtub,donepezil hydrochloride
+304,Joellen,Tollett,75037 Lighthouse Bay Drive,4/5/2003,"Exposure to other electric current, sequela",Leader
+305,Laurette,Ingman,3657 Laurel Hill,8/13/2020,"Pasngr in hv veh injured in clsn w pedl cyc nontraf, sequela",fondaparinux sodium
+306,Karon,Nyssens,394 Mosinee Pass,4/15/1967,"Hunting rifle discharge, undetermined intent, subs encntr",Chlorinum
+307,Carmelia,Aujouanet,780 Blaine Parkway,3/21/1957,"Pathological fracture in neoplastic disease, l humerus, init",Treatment Set TS333315
+308,Tybie,Tripcony,4735 Pierstorff Point,4/22/2002,Syringomyelia and syringobulbia,"Arnica montana, Bellis perennis, Hypericum perforatum"
+309,Rozella,Curgenuer,73 Scofield Road,4/26/1932,"Minor laceration of unsp innominate or subclavian vein, init",CITALOPRAM
+310,Tisha,McWhannel,2764 Oxford Street,8/6/1982,"Traumatic rupture of unsp ulnar collateral ligament, init",Disulfiram
+311,Cos,Heinonen,0 Transport Plaza,2/25/1925,"Injury of radial nerve at forearm level, left arm, init",Isopropyl Alcohol
+312,Aguistin,Yeo,934 Jenifer Terrace,11/29/1902,Vasomotor and allergic rhinitis,Naproxen Sodium
+313,Stefa,Milesap,36 Farragut Hill,1/1/1945,"Hepatic failure, unspecified",SALICYLIC ACID
+314,Brannon,Carde,519 Elmside Place,11/27/1970,"Laceration without foreign body of unspecified hand, sequela",SULFUR
+315,Dalston,Honsch,2 Dakota Parkway,2/18/1910,"Displaced comminuted fx shaft of left tibia, sequela",Sepia
+316,Michelina,Raffon,16249 Del Sol Street,1/21/1937,"Disorder of amino-acid metabolism, unspecified",coagulation factor ix (recombinant)
+317,Kent,Dibbin,332 Florence Way,9/25/1922,"Placentitis, third trimester, fetus 4",Terazosin Hydrochloride Anhydrous
+318,Paula,Pechacek,780 Acker Crossing,12/26/1929,"Leucocoria, left eye",BENZALKONIUM CHLORIDE
+319,Concettina,Tideswell,62 West Way,6/17/1948,"Unsp bus occupant injured in clsn w oth mv in traf, sequela",NAPROXEN SODIUM
+320,Rayna,MacGille,08760 Portage Junction,1/30/1933,Thyroid hormones and substitutes,dextromethorphan hydrobromide and guaifenesin
+321,Wood,Macguire,89 Warbler Road,12/2/1945,Major laceration of unspecified external jugular vein,oxycodone hydrochloride
+322,Thibaud,Balke,26113 Monica Street,11/8/1929,"Fusion of spine, thoracolumbar region",DESFLURANE
+323,Adaline,Tonnesen,5564 Green Avenue,11/12/1947,"Triplet preg, unsp num plcnta & amnio sacs, first trimester",Sennosides
+324,Tobias,Antognelli,1 Straubel Alley,11/15/1985,"Oth fracture of unsp talus, init encntr for closed fracture",OCTINOXATE and TITANIUM DIOXIDE
+325,Tad,Van Der Straaten,878 Acker Place,5/12/1948,Pressure ulcer of unspecified hip,"OCTINOXATE, TITANIUM DIOXIDE, OXYBENZONE"
+326,Row,Rohlf,955 Old Gate Crossing,11/21/1955,"Disp fx of olecran pro w/o intartic extn unsp ulna, sequela",isopropyl alcohol
+327,Kaylil,Bradburn,73006 Loftsgordon Terrace,9/10/1994,"Oth osteopor w current path fracture, left hand, init",Antiperspirant and Deodorant
+328,Griselda,Edlestone,5 Burrows Place,8/10/1949,Subluxation and dislocation of tarsal joint,Bacitracin Zinc Neomycin Sulfate Polymyxin B Sulfate
+329,Ignacius,Doody,2378 Everett Point,3/23/1981,Monoplegia of lower limb,METHOTREXATE SODIUM
+330,Ronalda,Thomason,782 Anniversary Alley,10/25/1968,Crowding of fully erupted teeth,Allium cepa
+331,Gaylor,Wenham,083 Jackson Alley,1/11/1904,"Nondisp fx of lateral cuneiform of left foot, init",tazarotene
+332,Kris,Hauxby,289 Forest Hill,8/12/1950,"Abrasion of left thumb, initial encounter",lisdexamfetamine dimesylate
+333,Larisa,Yerrington,7 Ridgeview Place,10/2/1994,"Anaphylactic reaction due to unspecified food, sequela",Amitriptyline Hydrochloride
+334,Tobye,Marzele,456 Aberg Avenue,2/21/1900,"Unspecified sprain of right lesser toe(s), initial encounter",Octinoxate and Titanium Dioxide
+335,Ealasaid,Coppeard,584 Delaware Avenue,1/11/1959,"Unsp fracture of unsp pubis, subs for fx w delay heal",Phenol
+336,Israel,Grayshan,0 Nelson Center,3/21/1929,"Matern care for disproprtn of mix matern & fetl origin, fts5",Sodium Fluoride
+337,Jason,Meek,85 Anzinger Trail,4/4/1929,"Exposure to smoke in uncontrolled fire, not in bldg, init","Sodium chloride, potassium chloride, sodium lactate and calcium chloride"
+338,Lynn,Crawforth,628 Lukken Terrace,10/22/2020,"Toxic effect of tetrachloroethylene, assault, sequela",desipramine hydrochloride
+339,Fawn,Upwood,141 David Street,6/11/1980,Unspecified superficial injury of unspecified thigh,magnesium hydroxide
+340,Jana,Hallagan,24053 Charing Cross Court,12/7/1910,"Burn of unsp degree of left scapular region, init encntr","Homosalate, Octisalate, Oxybenzone, Avobenzone"
+341,Carlin,Humby,7431 Pine View Way,6/4/2010,Encounter for issue of medical certificate,LOPERAMIDE HYDROCHLORIDE
+342,Kissee,MacAleese,712 Comanche Road,12/30/1931,"Hydroxyapatite deposition disease, left elbow",Warfarin Sodium
+343,Clemmy,Lambell,385 Pond Avenue,12/13/2001,"Complete traumatic trnsphal amp of l little finger, sequela",Levonorgestrel and Ethinyl Estradiol
+344,Mariana,McGillreich,20934 Milwaukee Crossing,9/21/1930,"Displ subtrochnt fx l femur, subs for clos fx w routn heal",Allantoin
+345,Edlin,Cook,1834 Commercial Avenue,5/6/1946,"Disp fx of medial cuneiform of unsp foot, init for opn fx",MUCOR PLUMBEUS
+346,Padgett,Sichardt,10286 Northland Avenue,5/28/1910,"Traum subrac hem w LOC of unsp duration, subs",Donepezil hydrochloride
+347,Adelind,Pow,4 Carioca Place,5/28/1948,"Age-rel osteopor w crnt path fx, r ank/ft, 7thD",Moexipril Hydrochloride
+348,Bruno,Peile,64852 Crownhardt Avenue,9/7/1903,"Disp fx of greater trochanter of unsp femr, 7thF",Lorazepam
+349,Ricard,Saltrese,00797 Melody Avenue,6/16/1990,"Melanoma in situ of right lower limb, including hip",Bitternut Hickory
+350,Kristian,Erni,5783 West Hill,11/14/1976,Contusion of duodenum,Olanzapine
+351,Jere,Kerton,40563 Dahle Drive,11/18/1968,"Disp fx of lateral condyle of l tibia, 7thC","Arsenicum alb., Benzoicum acidum, Berber. vulg., Bryonia, Caladium seguinum, Cantharis, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Daphne indica, Ignatia, Iris versicolor, Lycopodium, Nicotinum, Nux vom., Rhus toxicodendron, Scutellaria lateriflora, Tabacum, Echinacea, Taraxacum, Valeriana"
+352,Tremaine,Kornel,750 Dayton Road,2/1/1948,"Disp fx of med cuneiform of r foot, subs for fx w routn heal",cinacalcet hydrochloride
+353,Christabella,Brown,4 Elgar Hill,10/18/1971,"Other specified bursopathies, left hand",Acetaminophen
+354,Findlay,Bresson,26 Tennessee Junction,1/16/1911,Herpesviral infection of penis,GABAPENTIN
+355,Isidor,Lace,005 Annamark Center,7/22/1926,"Nondisp fx of fourth metatarsal bone, left foot, init",Nitrous Oxide
+356,Early,Prujean,8 Dayton Road,6/19/1995,"Unsp disp fx of surgical neck of right humerus, init",Hydrochlorothiazide
+357,Yolanthe,Wayvill,5 Lotheville Terrace,1/12/1907,"Hairy cell leukemia, in relapse",Docusate Sodium
+358,Anna-maria,Tocqueville,898 Ryan Court,11/6/1928,Periprosth fracture around other internal prosthetic joint,Loratadine
+359,Lynnette,Maas,43 Bobwhite Junction,5/6/1991,"Contact with unspecified agricultural machinery, subs encntr",FLUMAZENIL
+360,Mort,Aitkin,470 Thompson Crossing,8/5/2015,"Inj cutan sensory nerve at hip and thi lev, left leg, init",tazarotene
+361,Valeda,Dearn,08 Debra Lane,2/12/1954,Other forms of aspergillosis,"Standardized Grass Pollen, Grass Mix 7"
+362,Lisette,Pottie,2 Coleman Center,11/18/1980,"Laceration of ureter, sequela",Sulfacetamide Sodium and Sulfur
+363,Florence,Pennings,5 Annamark Circle,6/11/1961,Algoneurodystrophy,Silver Nitrate
+364,Aluino,Artist,3166 Hoard Center,7/18/2005,"Pedl cyc pasngr inj pk-up truck, pk-up/van in traf, sequela",mesalamine
+365,Audi,Balentyne,1764 Packers Parkway,10/3/1910,"Abrasion of breast, left breast, initial encounter",Hydrocodone Bitartrate and Acetaminophen
+366,Franchot,Gauntlett,650 Vahlen Point,12/23/2012,"Lacerat less saphenous at lower leg level, right leg, init",venlafaxine hydrochloride
+367,Tome,Beccero,8 Old Gate Hill,1/1/1953,"Ice-skater colliding with stationary object, init encntr",Dimethicone
+368,Birgitta,Earley,0907 Ruskin Circle,6/29/1901,Other specified health status,OXYGEN
+369,Fairlie,Meddick,45 Towne Crossing,7/23/1964,"Oth foreign object in esoph causing comprsn of trachea, init",Paroxetine
+370,Tracy,Somers,22 Leroy Parkway,12/13/1900,"Traumatic arthropathy, right elbow",Treatment Set TS333938
+371,Ginelle,Stive,1493 Fair Oaks Park,9/22/1974,Restaurant or cafe as place,Nitroglycerin
+372,Temp,Rimell,8 Browning Lane,6/25/1914,"Injury of unspecified nerve at lower leg level, right leg",Cetirizine Hydrochloride
+373,Chandra,Hemeret,427 International Road,10/22/1941,"Poisoning by local astringents/detergents, self-harm",Octinoxate
+374,Meredeth,Brade,2 School Drive,8/15/1910,"Oth disp fx of third cervcal vert, subs for fx w nonunion",Olanzapine
+375,Kakalina,Bispham,7 Fuller Hill,2/10/1988,Lacerat flexor musc/fasc/tend r mid finger at wrs/hnd lv,"Titanium Dioxide, OCTINOXATE, Zinc Oxide, OCTISALATE"
+376,Noah,Shingfield,880 Clyde Gallagher Park,10/27/1964,Malignant neoplasm of branchial cleft,Doxorubicin Hydrochloride
+377,Jehanna,Swindle,70230 Kenwood Terrace,7/14/1920,"Obstructed labor due to brow presentation, other fetus",Wasp hymenoptera venom Multidose
+378,Lief,Kean,80 Chinook Point,3/5/1949,Stiff-man syndrome,ALCOHOL
+379,Bendix,Thams,13364 Kennedy Court,7/5/2000,Preterm labor second tri w preterm delivery second trimester,Acetaminophen
+380,Albert,Corneck,4697 Schlimgen Circle,9/12/2015,"Complete traumatic amputation of unsp foot, level unsp, init","Dextromethorphan Hydrobromide, Guaifenesin, and Pseudoephedrine Hydrochloride"
+381,Robbert,Dimeloe,6 Clove Trail,1/14/1935,Malignant neoplasm of spinal cord,Ethanol
+382,Kalindi,Brimner,62852 Welch Court,2/17/1976,Other specified congenital malformations of heart,Olanzapine
+383,Callida,Pontefract,9875 Hovde Lane,11/21/2008,Myocarditis in diseases classified elsewhere,Insulin lispro
+384,Evan,Lowden,80 Bowman Alley,6/21/1962,"Nondisp fx of lateral condyle of l femr, 7thN",OCTINOXATE and TITANIUM DIOXIDE
+385,Elfie,Perigoe,2360 Arrowood Road,11/10/1928,"Hydroxyapatite deposition disease, left hand",Protriptyline hydrochloride
+386,Daune,MacMaykin,8708 Springview Street,1/27/2016,"Nondisp fx of shaft of 5th MC bone, r hand, init for opn fx",Titanium Dioxide
+387,Rosalind,Treneer,60 Bunting Park,10/16/1989,Perf due to fb acc left in body fol injection or immuniz,"Ignatia Amara, Natrum Muriaticum, Staphysagria"
+388,Corella,MacKean,809 Meadow Vale Point,11/2/2001,Congenital absence of both lower leg and foot,"Avobenzone, Homosalate, Octisalate, and Octocrylene"
+389,Devora,Rizzini,23 Waywood Pass,4/18/1949,"Burn of third degree of unspecified thigh, subs encntr",Aluminum Zirconium Tetrachlorohydrex GLY
+390,Pam,Gledhall,0848 Steensland Court,7/10/1940,"Oth paralytic syndrome following ntrm intcrbl hemor, bi",DOCUSATE SODIUM
+391,Zaccaria,Cosgriff,6890 Basil Point,10/13/1996,"Traum subrac hem w LOC w death d/t oth cause bf consc, sqla",doxepin hydrochloride
+392,Simonne,Late,3 Atwood Street,2/5/1958,"Wedge comprsn fx second thor vert, subs for fx w routn heal",rifampin
+393,Paige,de Vaen,040 Shelley Circle,3/17/1900,"Burn of 3rd deg mu sites of left wrist and hand, subs",Amlodipine Besylate
+394,Cullin,Denidge,38068 Monica Plaza,7/23/1913,"Nondisp oblique fx shaft of l femr, init for opn fx type I/2","Octocrylene,Zinc Oxide, Avobenzone, Ensulizone, Titanium Dioxide"
+395,Zelig,Frankcombe,0 Corry Road,11/14/1977,"Type II occipital condyle fracture, unspecified side, 7thD",Acetaminophen
+396,Jeniece,Milburne,0 Elmside Trail,9/20/1910,Black piedra,Folic Acid
+397,Tandy,Brockest,524 Waywood Road,4/28/1940,Monoplg upr lmb fol oth ntrm intcrn hemor aff unsp side,Amlodipine besylate and benazepril hydrochloride
+398,Marianna,Pachta,49240 Buell Crossing,8/11/1950,Foreign body in urethra,"Benzalkonium chloride, menthol, petrolatum"
+399,Fulvia,Stuttard,423 Stone Corner Place,12/2/1952,"Pressure ulcer of left upper back, stage 1",Nadolol
+400,Andie,Oak,5962 Merry Road,6/24/1958,"Oligohydramnios, third trimester, fetus 4",Ethambutol Hydrochloride
+401,Arleta,Lancaster,8 Grayhawk Hill,9/28/1937,Intraop hemor/hemtom of right eye and adnexa comp oth proc,Carisoprodol
+402,Bertram,Bigrigg,9 Manitowish Point,9/20/1985,"Poisoning by ganglionic blocking drugs, assault, sequela",Ceftriaxone Sodium
+403,Leola,Badrock,78419 Hayes Parkway,9/19/2018,"Other dislocation of left knee, sequela",TRICLOSAN
+404,Jesse,Chimes,2 Garrison Avenue,6/13/1969,Occup of bus injured in nonclsn transport accident nontraf,Triclosan
+405,Gardiner,Gatsby,13137 Northview Drive,7/16/1962,"Nasal polyp, unspecified",Mineral Oil and Petrolatum
+406,Rick,Bolderson,4 Killdeer Road,5/26/1907,"External constriction, left great toe, sequela",Tioconazole
+407,Schuyler,Messom,85440 Fulton Park,6/13/1988,"Flatback syndrome, lumbar region","DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE"
+408,Byrle,McCabe,6 Grim Lane,6/1/1985,"Pedl cyc driver injured in clsn w ped/anml nontraf, init","AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE"
+409,Wolfie,Fenelow,084 Northport Court,9/29/1985,"Displaced fracture of trapezoid, right wrist",Aluminum Chlorohydrate
+410,Pru,Rodder,969 Dunning Alley,5/2/1966,"Inhalation of liquid air, sequela",Simethicone
+411,Glen,Roseaman,8 Ridgeview Place,9/25/1995,"Strain msl/tnd lng flxr msl toe at ank/ft level, unsp foot",Haloperidol
+412,Brana,Larmour,7 Heath Plaza,1/12/1984,"Oth specific joint derangements of shoulder, NEC",Zonisamide
+413,Gran,Ryder,13 Center Junction,7/14/1979,"Hallucinogen abuse w psychotic disorder, unsp",Triclosan
+414,Anneliese,Hawarden,6 Red Cloud Alley,10/27/2011,Laceration with foreign body of unspecified shoulder,MORPHINE SULFATE
+415,Melanie,Slisby,6 3rd Alley,5/4/1937,"Mtrcy passenger injured in collision w oth mv in traf, subs",midodrine hydrochloride
+416,Cord,Philpots,4610 Sunbrook Terrace,2/23/1967,Recrudescent typhus [Brill's disease],Hydrocodone Bitartrate And Acetaminophen
+417,Abby,Gilston,67 Loeprich Plaza,8/1/1917,"Other specified crystal arthropathies, right ankle and foot",METFORMIN HYDROCHLORIDE
+418,Margret,Brewse,089 Rusk Way,3/2/1984,"Urethral discharge, unspecified",ALUMINUM CHLOROHYDRATE
+419,Johannes,Speakman,9831 Dennis Avenue,3/1/1934,"Mech compl of other urinary stent, initial encounter",Granisetron Hydrochloride
+420,Averyl,Midlane,834 Ridge Oak Road,12/4/1924,"Toxic effect of ingested berries, assault","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl"
+421,Stillmann,Debold,6524 Bay Pass,8/20/1984,Kitchen on military base as place,Hydrocodone Bitartrate and Acetaminophen
+422,Maddie,Derbyshire,688 4th Plaza,6/3/2021,Blister (nonthermal) of foot,Camphor Menthol Methyl Salicylate
+423,Aaren,Roux,8 Talmadge Pass,8/30/1938,Other obstructive and reflux uropathy,Glipizide
+424,Nicol,Haggart,80 Waxwing Road,6/19/1935,"Toxic effect of benzene, accidental (unintentional), sequela",Betamethasone Valerate
+425,Ruthanne,Sivier,460 Sunfield Park,8/2/1921,"Poisoning by appetite depressants, assault, subs encntr","TITANIUM DIOXIDE, OCTINOXATE"
+426,Yoko,Mariyushkin,19 Dakota Center,3/21/1904,"Unspecified dislocation of left radial head, init encntr","Short Ragweed, Ambrosia artemisiifolia"
+427,Cristian,Nann,18574 Schlimgen Junction,5/19/1999,"Nondisp fx of lunate, unsp wrist, init for opn fx",Clopidogrel
+428,Neville,McKeand,12910 Lakewood Junction,6/9/2015,"Unsp fx fifth MC bone, right hand, subs for fx w routn heal",OCTINOXATE OXYBENZONE
+429,Basilio,Behrend,891 Bobwhite Circle,9/28/1936,"Disp fx of medial cuneiform of right foot, sequela","Clematis Recta Flowering Top, Conium Maculatum Flowering Top, Lycopodium Clavatum Spore, Mercuric Chloride, Pulsatilla Vulgaris, Saw Palmetto, Selenium, Sepia Officinalis Juice, Delphinium Staphisagria Seed, Thuja Occidentalis Leafy Twig"
+430,Karlee,Shord,02224 Portage Junction,5/5/2015,"Disp fx of pisiform, right wrist, subs for fx w malunion","Benzocaine, Phenol, Camphor"
+431,Lindsey,Yearron,01476 Longview Hill,12/9/1938,"Accidental discharge from unsp firearms or gun, init encntr",Sodium Monofluorophosphate
+432,Pandora,Bough,70749 Muir Park,5/1/1930,Unspecified dislocation of unspecified thumb,Metoclopramide
+433,Sadella,Berrie,88 Bayside Park,5/30/1983,Corrosion of unspecified degree of trunk,Prednisone
+434,Aguste,Inglesant,31 Boyd Center,6/26/1927,"Occup of pk-up/van inj pk-up truck, pk-up/van nontraf, init",Levetiracetam
+435,Olwen,De Micoli,8929 Mandrake Lane,3/7/2004,Occupant of hv veh injured in collision w nonmtr vehicle,"Acetone, Sodium tripolyphosphate, Propylene glycol, Sodium benzene sulfonate, Sodium lauryl sulfate, Terebinthina,"
+436,Blanch,Kupisz,44021 Hazelcrest Junction,12/25/1988,"Inj musc/tend peroneal grp at lower leg level, right leg",Penicillium notatum
+437,Gabriella,Valsler,1031 Thompson Hill,8/20/1964,Perf due to fb acc left in body following infusn/transfusn,Sulfamethoxazole and Trimethoprim
+438,Artus,Karchowski,84236 Melvin Lane,11/8/2020,"Contact with dry ice, initial encounter",cavia porcellus hair and cavia porcellus skin
+439,Luciano,Daviddi,5 Ridgeview Park,4/28/1978,"Corrosion of second degree of forehead and cheek, init",OCTINOXATE
+440,Kirstin,Fenich,6498 Forest Run Center,10/29/2007,"Cyclical vomiting, not intractable",Psyllium husk
+441,Wally,MacKomb,4689 7th Lane,2/20/2016,"Colles' fracture of r radius, subs for clos fx w malunion",tacrolimus extended-release capsules
+442,Elisha,Campo,9 Jenna Park,2/4/2019,"Asphyx d/t smothr under another person's body, asslt, subs",Triclosan
+443,Aarika,Aird,640 Del Mar Terrace,2/7/1933,"Mech compl of int fix of left femur, sequela",Vancomycin Hydrochloride
+444,Vanya,Robion,50018 Quincy Court,1/17/1989,"Strain of muscles and tendons at ank/ft level, r foot, subs",OCTINOXATE and TITANIUM DIOXIDE
+445,Hollyanne,Gould,7947 Ruskin Street,6/12/1939,"Military operations involving flamethrower, civilian, init",Aluminum Zirconium Tetrachlorohydrex GLY
+446,Gilburt,Robinette,33 Little Fleur Hill,10/28/1950,Cerebral infarction due to embolism of vertebral artery,diphenhydramine hydrochloride
+447,Israel,Breeze,32788 Myrtle Center,7/21/1956,"Oth fx shaft of r femr, 7thE",Black Willow
+448,Eugenio,Donisthorpe,21224 Weeping Birch Crossing,9/10/1930,Other dislocation of left radial head,Renagel
+449,Melina,Pilkinton,0 Anzinger Street,8/15/1914,"Sprain of MCP joint of right little finger, subs",Benazepril Hydrochloride
+450,Randell,Ruspine,15 Arapahoe Park,5/15/2000,"Dislocation of unsp interphaln joint of r idx fngr, sequela",coagulation factor IX human
+451,Martynne,Maxwaile,75 Milwaukee Road,1/22/1982,"Inj unsp blood vessel at shldr/up arm, left arm",Ibuprofen
+452,Inger,Rowcliffe,5 Village Point,7/5/1907,"Poisoning by vitamins, undetermined, subsequent encounter",glycopyrrolate
+453,Danielle,Bowring,07050 Delladonna Point,2/27/2012,"Sprain of metacarpophalangeal joint of oth finger, init",Mefloquine Hydrochloride
+454,Marita,Trays,3 Vidon Pass,9/13/1916,"Nexdtve age-related mclr degn, right eye, stage unspecified",morphine sulfate
+455,Winonah,Jagielski,182 Lunder Terrace,11/25/1984,"Passenger of snowmobile injured in nontraffic accident, init",Lima Beans
+456,Karyl,Gomby,8967 Clyde Gallagher Parkway,3/16/1914,"Nondisp osteochon fx r patella, 7thQ","Phytolacca decandra, Ehrlichia, Mycoplasma pneumoniae, Borrelia burgdorferi, Babesia microti, Coxiella burnetii, Chelidonium majus, Herpes zoster,"
+457,Thedrick,Brenneke,157 Jackson Parkway,3/8/1949,Pulmonary anthrax,TEMAZEPAM
+458,Reube,Gibling,0447 Mccormick Alley,8/24/1920,"Oth disorders of ext ear in diseases classd elswhr, bi",Oxycodone Hydrochloride
+459,Saunders,Brown,1663 Lukken Circle,6/14/1974,"Contusion of unspecified foot, initial encounter","TITANIUM DIOXIDE, ZINC OXIDE"
+460,Amandy,Dauney,37 Clemons Trail,6/21/1930,"Toxic effect of hydrogen sulfide, accidental, init",CAMPHOR AND MENTHOL
+461,Levey,Vader,25183 John Wall Circle,2/1/2020,"Gestatnl diab in chldbrth, ctrl by oral hypoglycemic drugs",Hydrocodone Bitartrate And Acetaminophen
+462,Yorgo,De Bruin,8 Ilene Avenue,2/5/1929,"Stable burst fx unsp thor vertebra, subs for fx w routn heal",witch hazel
+463,Ulla,Cristofaro,446 Lerdahl Junction,7/27/1969,"Oth malignant neoplasm skin/ right upper limb, inc shoulder",Oxycodone hydrochloride and Acetaminophen
+464,Silvio,Turrill,8 Golf Lane,1/30/1976,"Infantile and juvenile nuclear cataract, right eye",Potassium Nitrate
+465,Coralie,Bairstow,8990 Clemons Court,6/2/2018,Crushing injury of left lesser toe(s),ANTIHEMOPHILIC FACTOR HUMAN
+466,Carri,Pilgram,74067 Texas Junction,9/22/1940,"Unsp physeal fx lower end radius, right arm, sequela",Salicylic Acid
+467,Arin,Balsillie,3 Mariners Cove Way,6/2/1931,"Poisoning by methadone, assault, sequela",Ibuprofen
+468,Henrietta,Danels,8 Pearson Way,9/6/1907,"Unsp open wound of unsp cheek and TMJ area, sequela",Glimepiride
+469,Malva,Willson,1828 2nd Trail,12/1/1977,"Displ midcervical fx unsp femr, 7thQ",Ibuprofen
+470,Jaime,Liptrod,69490 Waubesa Lane,6/21/1982,"Milt op involving explosion of marine mine, milt, init",ciclesonide
+471,Gardener,Melledy,117 Elmside Terrace,11/28/2022,"Nondisp fx of proximal phalanx of left thumb, init",Galantamine
+472,Ryley,Hughes,7671 Gina Circle,5/3/1930,"Laceration of other blood vessels of thorax, right side",Potassium Chloride
+473,Charleen,Olenin,556 Hoepker Pass,5/4/1939,Postproc seroma of the spleen following other procedure,Amlodipine besylate
+474,Sherrie,Arstall,8 Summerview Circle,3/8/1962,Other cataclysmic storms,"dl-camphor, l-menthol, methyl salicylate"
+475,Hope,McMurdo,677 Lindbergh Street,3/8/1960,Acute miliary tuberculosis of a single specified site,Oxcarbazepine
+476,Anneliese,Verrico,6073 Shasta Terrace,3/15/1920,"Oth intartic fx low end l rad, subs for clos fx w delay heal",Buckwheat
+477,Giles,Braun,6 Moose Place,1/30/2013,"Subluxation of T10/T11 thoracic vertebra, sequela",Cephalexin
+478,Rikki,Coom,7097 Hayes Place,12/5/1971,"Sprain of calcaneofibular ligament of left ankle, init",Lisinopril and Hydrochlorothiazide
+479,Grannie,O'Shee,5446 Redwing Circle,10/17/1984,"Nondisp commnt fx shaft of l tibia, 7thC",water
+480,Thoma,Neagle,566 Upham Road,5/17/1956,Other malignant neuroendocrine tumors,Lorazepam
+481,Nadiya,Chesher,285 Badeau Way,3/23/1909,"Sltr-haris Type III physl fx lower end humer, left arm, 7thP",Penicillium notatum
+482,Nancey,Gostage,67688 Melby Point,9/25/1974,Other juvenile arthritis,"Vervain,"
+483,Cacilie,Danniell,8 8th Hill,8/17/2009,"Acute embolism and thrombosis of int jugular vein, bilateral","MENTHOL, HISTAMINE DIHYDROCHLORIDE"
+484,Cassaundra,Hain,92716 Shoshone Trail,12/5/1948,"Puncture wound with foreign body of unsp wrist, subs encntr",tolmetin sodium
+485,Ninnetta,Besantie,1 Village Point,1/27/1963,"Animal-rider injured in collision w ped/anml, subs","Chlophedianol HCL, Chlorpheniramine Maleate and Phenylephrine HCl"
+486,Cindy,Batter,0 Elka Park,4/29/2020,"Other superficial bite of lower back and pelvis, init encntr",selenium sulfide
+487,Georgetta,Kennford,530 Armistice Circle,8/24/1927,Infection due to other bariatric procedure,Diphenhydramine Hydrochloride
+488,Ginny,Beviss,30 Eliot Pass,4/7/1946,"Puncture wound without foreign body of lip, sequela",doxazosin mesylate
+489,Franklyn,Revell,1 Maple Junction,1/21/1938,Contact with raccoon,Isoniazid
+490,Allister,Hunnybun,640 Claremont Junction,9/17/1936,Jumping or diving from boat striking water surface,Human Insulin
+491,Concettina,Roberts,3 Tony Road,9/19/1938,"Disp fx of lateral condyle of l femr, 7thM","Oats, Common, Cultivated Avena sativa"
+492,Lacy,Ruprechter,50 Golf Course Drive,7/17/1922,"Unspecified sprain of right thumb, initial encounter",Ibuprofen
+493,Henrik,Ayers,25838 Mifflin Drive,7/21/1995,"Lgl intervnt w inj by explosv shl, law enforc offl inj, sqla",Menthol
+494,Marjie,Haquin,24094 Carberry Street,4/6/1966,"Lead-induced gout, unspecified shoulder",Simethicone
+495,Ediva,Pile,0 Fuller Parkway,7/20/1942,Burn of third degree of right ankle,"Titanium Dioxide, Zinc Oxide"
+496,Alexi,Janas,5579 Hoepker Drive,4/13/1954,Unspecified focal chorioretinal inflammation,Clindamycin Palmitate Hydrochloride (Pediatric)
+497,Herrick,Sutworth,6267 Waubesa Place,12/31/1988,"Unsp foreign body in oth prt resp tract causing asphyx, subs","OCTINOXATE, TITANIUM DIOXIDE, OXYBENZONE"
+498,Milo,Blazewicz,4899 Dryden Point,5/28/1958,"Toxic effect of contact w venom marine plant, assault, init",ROPINIROLE HYDROCHLORIDE
+499,Catharina,Burchnall,69 Hansons Park,5/28/1926,"Prsn outsd 3-whl mv inj in clsn w rail trn/veh nontraf, init",ALTHAEA OFFICINALIS LEAF - ASCORBIC ACID - BLACK CURRANT - CALCIUM SULFIDE - COPPER - ECHINACEA ANGUSTIFOLIA - GOLDENSEAL - LACHESIS MUTA VENOM - LOBARIA PULMONARIA - MANGANESE - MERCURIC SULFIDE - ON
+500,Melesa,Baldacco,44 Texas Center,3/14/1980,"Other specified rheumatoid arthritis, right ankle and foot",Lidicaine
